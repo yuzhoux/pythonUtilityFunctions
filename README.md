@@ -14,3 +14,7 @@ This python file has steps and functions for common tasks in modeling setup: loa
 **3. pysparkFeatureEngineering.py**
 
 This pyspark file has functions to manipulate many variables together. In big data projects, the number of variables is large, therefore we need functions to manipulate a list of variables together instead of doing so one by one. 
+
+**4.subProcess.py**
+
+This python function submit a SQL statement to target query engine.
