@@ -18,3 +18,7 @@ This pyspark file has functions to manipulate many variables together. In big da
 **4.subProcess.py**
 
 This python function submit a SQL statement to target query engine.
+
+**5.pyspark_pipeline_step_unit.py**
+
+This script is a pyspark step to extract data and save data into HDFS
